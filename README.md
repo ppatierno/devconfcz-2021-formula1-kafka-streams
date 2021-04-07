@@ -3,7 +3,7 @@
 Demo session at DevConf.cz 2021 "Formula 1 telemetry processing using Kafka Streams"
 
 * [Slides deck](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-using-kafka-streams)
-* Video recording
+* [Video recording](https://www.youtube.com/watch?v=OkXlSb4vfDk)
 
 ![Formula 1 telemetry with Apache Kafka](images/overview.png)
 
